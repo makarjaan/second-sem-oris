@@ -1,2 +1,1 @@
-rootProject.name = "secondsemOris"
-
+rootProject.name = "second-sem-oris"
